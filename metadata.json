@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SmartBiz AI Analyst",
+  "description": "An intelligent business dashboard that evaluates costs, analyzes anomalies using historical data, simulates decision impacts on P&L, and includes product image visualization capabilities using Gemini 2.5.",
+  "requestFramePermissions": []
+}
